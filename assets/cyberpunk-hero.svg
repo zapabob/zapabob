@@ -1,0 +1,80 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">zapabob cyberpunk profile hero</title>
+  <desc id="heroDesc">Cyberpunk themed hero banner for the zapabob GitHub profile with neon accents and AI, bioinformatics, Unity, VRChat, and agent systems themes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#090B1E"/>
+      <stop offset="1" stop-color="#160A1A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="100" y1="60" x2="1180" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1330" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#130B22" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="lineBlue" x1="96" y1="96" x2="1184" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27E1FF"/>
+      <stop offset="1" stop-color="#00FFA3"/>
+    </linearGradient>
+    <linearGradient id="linePink" x1="96" y1="340" x2="1184" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF4FD8"/>
+      <stop offset="1" stop-color="#8B5CFF"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowPink" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#1A2B46" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)" opacity="0.28"/>
+  <circle cx="1038" cy="82" r="156" fill="#1C2D5C" opacity="0.18"/>
+  <circle cx="1108" cy="110" r="104" fill="#FF4FD8" opacity="0.08"/>
+  <circle cx="188" cy="332" r="138" fill="#27E1FF" opacity="0.06"/>
+
+  <rect x="96" y="62" width="1088" height="296" rx="24" fill="url(#panel)" stroke="#20365D" stroke-width="2"/>
+  <path d="M96 96H1184" stroke="url(#lineBlue)" stroke-width="3" filter="url(#glowCyan)"/>
+  <path d="M96 340H1184" stroke="url(#linePink)" stroke-width="3" filter="url(#glowPink)"/>
+
+  <text x="126" y="128" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="3">PROFILE // CYBERPUNK NODE</text>
+  <text x="126" y="186" fill="#F6FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="46" font-weight="700">zapabob // Ryo Minegishi</text>
+  <text x="126" y="224" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">AI systems, bioinformatics, medicinal chemistry, Unity, VRChat, and autonomous agents.</text>
+  <text x="126" y="256" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">Research-to-build workflow with a neon interface and hands-on prototypes.</text>
+
+  <rect x="126" y="286" width="164" height="34" rx="17" fill="#0D1D35" stroke="#27E1FF"/>
+  <rect x="304" y="286" width="160" height="34" rx="17" fill="#171126" stroke="#FF4FD8"/>
+  <rect x="478" y="286" width="138" height="34" rx="17" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="630" y="286" width="154" height="34" rx="17" fill="#14142B" stroke="#8B5CFF"/>
+  <rect x="798" y="286" width="154" height="34" rx="17" fill="#10172D" stroke="#27E1FF"/>
+
+  <text x="146" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">AI AGENTS</text>
+  <text x="325" y="308" fill="#FFE0FA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">BIOINFO</text>
+  <text x="499" y="308" fill="#CBFFE7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">UNITY</text>
+  <text x="651" y="308" fill="#E7DCFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">VRCHAT</text>
+  <text x="820" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">AUTOMATION</text>
+
+  <rect x="912" y="126" width="220" height="56" rx="16" fill="#0F132A" stroke="#27E1FF"/>
+  <rect x="912" y="194" width="220" height="56" rx="16" fill="#130F23" stroke="#FF4FD8"/>
+  <rect x="912" y="262" width="220" height="56" rx="16" fill="#10172D" stroke="#00FFA3"/>
+
+  <text x="936" y="149" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">LOCATION</text>
+  <text x="936" y="168" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Nagano // Japan</text>
+
+  <text x="936" y="217" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">AFFILIATION</text>
+  <text x="936" y="236" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">The Open University of Japan</text>
+
+  <text x="936" y="285" fill="#8DFFD4" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">NETWORK</text>
+  <text x="936" y="304" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">227 followers // @zapabob_ouj</text>
+</svg>
