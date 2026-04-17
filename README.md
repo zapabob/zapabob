@@ -52,7 +52,7 @@
 
 ## Telemetry Notes
 
-- Dashboard snapshot date: `2026-04-16` Asia/Tokyo
+- Dashboard snapshot date: `2026-04-17` Asia/Tokyo
 - Language mix uses owned public non-fork repositories
 - Star ranking is shown separately from pinned repositories
 - Pinned repositories follow the live GitHub pinned order

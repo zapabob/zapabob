@@ -49,32 +49,38 @@
   <path d="M96 340H1184" stroke="url(#linePink)" stroke-width="3" filter="url(#glowPink)"/>
 
   <text x="126" y="128" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="3">PROFILE // CYBERPUNK NODE</text>
-  <text x="126" y="186" fill="#F6FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="46" font-weight="700">zapabob // Ryo Minegishi</text>
-  <text x="126" y="224" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">AI systems, bioinformatics, medicinal chemistry, Unity, VRChat, and autonomous agents.</text>
-  <text x="126" y="256" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">Research-to-build workflow with a neon interface and hands-on prototypes.</text>
+  <text x="126" y="184" fill="#F6FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">zapabob // Ryo Minegishi</text>
+  <text x="126" y="220" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">AI systems, bioinformatics, medicinal chemistry, Unity, VRChat, and autonomous agents.</text>
+  <text x="126" y="250" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">Research-to-build workflow with a neon interface and hands-on prototypes.</text>
 
-  <rect x="126" y="286" width="164" height="34" rx="17" fill="#0D1D35" stroke="#27E1FF"/>
-  <rect x="304" y="286" width="160" height="34" rx="17" fill="#171126" stroke="#FF4FD8"/>
-  <rect x="478" y="286" width="138" height="34" rx="17" fill="#10172D" stroke="#00FFA3"/>
-  <rect x="630" y="286" width="154" height="34" rx="17" fill="#14142B" stroke="#8B5CFF"/>
-  <rect x="798" y="286" width="154" height="34" rx="17" fill="#10172D" stroke="#27E1FF"/>
+  <rect x="126" y="286" width="150" height="34" rx="17" fill="#0D1D35" stroke="#27E1FF"/>
+  <rect x="288" y="286" width="132" height="34" rx="17" fill="#171126" stroke="#FF4FD8"/>
+  <rect x="432" y="286" width="110" height="34" rx="17" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="554" y="286" width="126" height="34" rx="17" fill="#14142B" stroke="#8B5CFF"/>
+  <rect x="692" y="286" width="144" height="34" rx="17" fill="#10172D" stroke="#27E1FF"/>
 
-  <text x="146" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">AI AGENTS</text>
-  <text x="325" y="308" fill="#FFE0FA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">BIOINFO</text>
-  <text x="499" y="308" fill="#CBFFE7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">UNITY</text>
-  <text x="651" y="308" fill="#E7DCFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">VRCHAT</text>
-  <text x="820" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">AUTOMATION</text>
+  <text x="146" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">AI AGENTS</text>
+  <text x="308" y="308" fill="#FFE0FA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">BIOINFO</text>
+  <text x="452" y="308" fill="#CBFFE7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">UNITY</text>
+  <text x="576" y="308" fill="#E7DCFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">VRCHAT</text>
+  <text x="716" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">AUTOMATION</text>
 
-  <rect x="912" y="126" width="220" height="56" rx="16" fill="#0F132A" stroke="#27E1FF"/>
-  <rect x="912" y="194" width="220" height="56" rx="16" fill="#130F23" stroke="#FF4FD8"/>
-  <rect x="912" y="262" width="220" height="56" rx="16" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="864" y="126" width="280" height="56" rx="16" fill="#0F132A" stroke="#27E1FF"/>
+  <rect x="864" y="194" width="280" height="56" rx="16" fill="#130F23" stroke="#FF4FD8"/>
+  <rect x="864" y="262" width="280" height="66" rx="16" fill="#10172D" stroke="#00FFA3"/>
 
-  <text x="936" y="149" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">LOCATION</text>
-  <text x="936" y="168" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Nagano // Japan</text>
+  <text x="886" y="149" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.8">LOCATION</text>
+  <text x="886" y="170" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">Nagano // Japan</text>
 
-  <text x="936" y="217" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">AFFILIATION</text>
-  <text x="936" y="236" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">The Open University of Japan</text>
+  <text x="886" y="217" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.8">AFFILIATION</text>
+  <text x="886" y="236" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17" font-weight="700">
+    <tspan x="886" dy="0">The Open University</tspan>
+    <tspan x="886" dy="18">of Japan</tspan>
+  </text>
 
-  <text x="936" y="285" fill="#8DFFD4" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14" letter-spacing="1.8">NETWORK</text>
-  <text x="936" y="304" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">227 followers // @zapabob_ouj</text>
+  <text x="886" y="285" fill="#8DFFD4" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.8">NETWORK</text>
+  <text x="886" y="304" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17" font-weight="700">
+    <tspan x="886" dy="0">227 followers</tspan>
+    <tspan x="886" dy="17">@zapabob_ouj</tspan>
+  </text>
 </svg>

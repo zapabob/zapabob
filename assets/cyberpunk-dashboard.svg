@@ -1,8 +1,8 @@
-<svg width="1280" height="860" viewBox="0 0 1280 860" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dashTitle dashDesc">
+<svg width="1280" height="920" viewBox="0 0 1280 920" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dashTitle dashDesc">
   <title id="dashTitle">zapabob cyberpunk profile dashboard</title>
   <desc id="dashDesc">Cyberpunk dashboard showing language usage, star-ranked repositories, pinned repositories, and contribution calls to action for the zapabob GitHub profile.</desc>
   <defs>
-    <linearGradient id="dashBg" x1="0" y1="0" x2="1280" y2="860" gradientUnits="userSpaceOnUse">
+    <linearGradient id="dashBg" x1="0" y1="0" x2="1280" y2="920" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050816"/>
       <stop offset="0.5" stop-color="#090C1E"/>
       <stop offset="1" stop-color="#140B1D"/>
@@ -27,112 +27,113 @@
     </pattern>
   </defs>
 
-  <rect width="1280" height="860" fill="url(#dashBg)"/>
-  <rect width="1280" height="860" fill="url(#dashGrid)" opacity="0.26"/>
+  <rect width="1280" height="920" fill="url(#dashBg)"/>
+  <rect width="1280" height="920" fill="url(#dashGrid)" opacity="0.26"/>
 
-  <text x="72" y="70" fill="#97FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" letter-spacing="3">GITHUB PROFILE // LIVE VISUAL MAP // 2026-04-16 JST</text>
+  <text x="72" y="70" fill="#97FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" letter-spacing="3">GITHUB PROFILE // LIVE VISUAL MAP // 2026-04-17 JST</text>
   <text x="72" y="110" fill="#F4FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="38" font-weight="700">zapabob profile telemetry</text>
 
-  <rect x="56" y="138" width="350" height="174" rx="24" fill="#0D1228" stroke="#1F3659" stroke-width="2"/>
+  <rect x="56" y="138" width="350" height="220" rx="24" fill="#0D1228" stroke="#1F3659" stroke-width="2"/>
   <text x="84" y="178" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">SIGNAL SUMMARY</text>
   <text x="84" y="222" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="54" font-weight="700">45</text>
   <text x="84" y="252" fill="#A8B6D9" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">owned public repos</text>
   <text x="84" y="284" fill="#FF95EF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">91 public repos including forks</text>
+  <text x="84" y="320" fill="#A8B6D9" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">followers 227 // following 378</text>
 
-  <rect x="430" y="138" width="794" height="174" rx="24" fill="#0E1128" stroke="#1F3659" stroke-width="2"/>
+  <rect x="430" y="138" width="794" height="220" rx="24" fill="#0E1128" stroke="#1F3659" stroke-width="2"/>
   <text x="458" y="178" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">CALL TO ACTION MATRIX</text>
 
-  <rect x="458" y="196" width="172" height="92" rx="18" fill="#0C1930" stroke="#27E1FF"/>
-  <rect x="648" y="196" width="172" height="92" rx="18" fill="#171126" stroke="#FF4FD8"/>
-  <rect x="838" y="196" width="172" height="92" rx="18" fill="#10172D" stroke="#00FFA3"/>
-  <rect x="1028" y="196" width="172" height="92" rx="18" fill="#13142C" stroke="#8B5CFF"/>
+  <rect x="458" y="196" width="350" height="64" rx="18" fill="#0C1930" stroke="#27E1FF"/>
+  <rect x="836" y="196" width="350" height="64" rx="18" fill="#171126" stroke="#FF4FD8"/>
+  <rect x="458" y="276" width="350" height="64" rx="18" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="836" y="276" width="350" height="64" rx="18" fill="#13142C" stroke="#8B5CFF"/>
 
-  <text x="482" y="230" fill="#9AFDFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16" letter-spacing="1.4">SPONSOR SIGNAL</text>
-  <text x="482" y="258" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="23" font-weight="700">GitHub Sponsors</text>
-  <text x="482" y="279" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">sponsors/zapabob</text>
+  <text x="482" y="219" fill="#9AFDFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">SPONSOR</text>
+  <text x="482" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">GitHub Sponsors</text>
+  <text x="482" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">support ongoing builds and experiments</text>
 
-  <text x="672" y="230" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16" letter-spacing="1.4">CONTRIBUTE</text>
-  <text x="672" y="258" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="23" font-weight="700">Collaboration Open</text>
-  <text x="672" y="279" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">build, research, review</text>
+  <text x="860" y="219" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">CONTRIBUTE</text>
+  <text x="860" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Collaboration Open</text>
+  <text x="860" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">build, research, review, and co-design</text>
 
-  <text x="862" y="230" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16" letter-spacing="1.4">ISSUES</text>
-  <text x="862" y="258" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="23" font-weight="700">Issue Reports Welcome</text>
-  <text x="862" y="279" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">feedback and bug reports</text>
+  <text x="482" y="299" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">ISSUES</text>
+  <text x="482" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Issue Reports Welcome</text>
+  <text x="482" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">feedback, bug reports, and edge cases</text>
 
-  <text x="1052" y="230" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16" letter-spacing="1.4">PULL REQUESTS</text>
-  <text x="1052" y="258" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="23" font-weight="700">PRs Welcome</text>
-  <text x="1052" y="279" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">patches and improvements</text>
+  <text x="860" y="299" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">PULL REQUESTS</text>
+  <text x="860" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">PRs Welcome</text>
+  <text x="860" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">patches, fixes, and quality improvements</text>
 
-  <rect x="56" y="338" width="558" height="454" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
-  <text x="84" y="380" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">LANGUAGE USAGE // OWNED PUBLIC NON-FORK</text>
+  <rect x="56" y="384" width="558" height="478" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
+  <text x="84" y="426" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">LANGUAGE USAGE // OWNED PUBLIC NON-FORK</text>
 
-  <text x="84" y="428" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Python</text>
-  <rect x="194" y="410" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="410" width="234" height="24" rx="12" fill="url(#cyanGrad)" filter="url(#softGlow)"/>
-  <text x="548" y="428" fill="#9DF9FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">68.9%</text>
+  <text x="84" y="474" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Python</text>
+  <rect x="194" y="456" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="456" width="234" height="24" rx="12" fill="url(#cyanGrad)" filter="url(#softGlow)"/>
+  <text x="548" y="474" fill="#9DF9FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">68.9%</text>
 
-  <text x="84" y="468" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">C#</text>
-  <rect x="194" y="450" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="450" width="108" height="24" rx="12" fill="#FF4FD8" filter="url(#softGlow)"/>
-  <text x="548" y="468" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">11.1%</text>
+  <text x="84" y="514" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">C#</text>
+  <rect x="194" y="496" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="496" width="108" height="24" rx="12" fill="#FF4FD8" filter="url(#softGlow)"/>
+  <text x="548" y="514" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">11.1%</text>
 
-  <text x="84" y="508" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">TypeScript</text>
-  <rect x="194" y="490" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="490" width="84" height="24" rx="12" fill="#00FFA3" filter="url(#softGlow)"/>
-  <text x="548" y="508" fill="#CBFFE8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">6.7%</text>
+  <text x="84" y="554" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">TypeScript</text>
+  <rect x="194" y="536" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="536" width="84" height="24" rx="12" fill="#00FFA3" filter="url(#softGlow)"/>
+  <text x="548" y="554" fill="#CBFFE8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">6.7%</text>
 
-  <text x="84" y="548" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">HTML</text>
-  <rect x="194" y="530" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="530" width="62" height="24" rx="12" fill="#8B5CFF" filter="url(#softGlow)"/>
-  <text x="548" y="548" fill="#E7DBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">4.4%</text>
+  <text x="84" y="594" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">HTML</text>
+  <rect x="194" y="576" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="576" width="62" height="24" rx="12" fill="#8B5CFF" filter="url(#softGlow)"/>
+  <text x="548" y="594" fill="#E7DBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">4.4%</text>
 
-  <text x="84" y="588" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Unknown</text>
-  <rect x="194" y="570" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="570" width="62" height="24" rx="12" fill="#26A7FF" filter="url(#softGlow)"/>
-  <text x="548" y="588" fill="#B7E5FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">4.4%</text>
+  <text x="84" y="634" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Unknown</text>
+  <rect x="194" y="616" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="616" width="62" height="24" rx="12" fill="#26A7FF" filter="url(#softGlow)"/>
+  <text x="548" y="634" fill="#B7E5FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">4.4%</text>
 
-  <text x="84" y="628" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Rust</text>
-  <rect x="194" y="610" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="610" width="42" height="24" rx="12" fill="#FFD166" filter="url(#softGlow)"/>
-  <text x="548" y="628" fill="#FFE2A8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">2.2%</text>
+  <text x="84" y="674" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Rust</text>
+  <rect x="194" y="656" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="656" width="42" height="24" rx="12" fill="#FFD166" filter="url(#softGlow)"/>
+  <text x="548" y="674" fill="#FFE2A8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">2.2%</text>
 
-  <text x="84" y="668" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">ShaderLab</text>
-  <rect x="194" y="650" width="340" height="24" rx="12" fill="#122036"/>
-  <rect x="194" y="650" width="42" height="24" rx="12" fill="#5BE1A2" filter="url(#softGlow)"/>
-  <text x="548" y="668" fill="#CCFFE8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">2.2%</text>
+  <text x="84" y="714" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">ShaderLab</text>
+  <rect x="194" y="696" width="340" height="24" rx="12" fill="#122036"/>
+  <rect x="194" y="696" width="42" height="24" rx="12" fill="#5BE1A2" filter="url(#softGlow)"/>
+  <text x="548" y="714" fill="#CCFFE8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17">2.2%</text>
 
-  <text x="84" y="724" fill="#FFAFEF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">basis: 45 owned public repositories, grouped by primaryLanguage</text>
+  <text x="84" y="778" fill="#FFAFEF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">basis: 45 owned public repositories, grouped by primaryLanguage</text>
 
-  <rect x="638" y="338" width="586" height="214" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
-  <text x="666" y="380" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">STAR RANKING // OWNED PUBLIC NON-FORK</text>
-  <text x="666" y="424" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">01  Turboquant-CUDA</text>
-  <text x="1138" y="424" text-anchor="end" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">6 ★</text>
-  <text x="666" y="458" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">02  liltoon-pcss-extension</text>
-  <text x="1138" y="458" text-anchor="end" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">5 ★</text>
-  <text x="666" y="492" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">03  Python-drug-Prediction</text>
-  <text x="1138" y="492" text-anchor="end" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">2 ★</text>
-  <text x="666" y="526" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">next tier: -, Bluestroke, DeepResearchmodoki, Shor at 1 ★</text>
+  <rect x="638" y="384" width="586" height="224" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
+  <text x="666" y="426" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">STAR RANKING // OWNED PUBLIC NON-FORK</text>
+  <text x="666" y="470" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">01  Turboquant-CUDA</text>
+  <text x="1138" y="470" text-anchor="end" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">6 stars</text>
+  <text x="666" y="504" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">02  liltoon-pcss-extension</text>
+  <text x="1138" y="504" text-anchor="end" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">5 stars</text>
+  <text x="666" y="538" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">03  Python-drug-Prediction</text>
+  <text x="1138" y="538" text-anchor="end" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">2 stars</text>
+  <text x="666" y="572" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">next tier: -, Bluestroke, DeepResearchmodoki, Shor at 1 star</text>
 
-  <rect x="638" y="578" width="586" height="214" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
-  <text x="666" y="620" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">PINNED REPOSITORIES // LIVE ORDER</text>
+  <rect x="638" y="636" width="586" height="226" rx="24" fill="#0C1125" stroke="#1F3659" stroke-width="2"/>
+  <text x="666" y="678" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">PINNED REPOSITORIES // LIVE ORDER</text>
 
-  <text x="666" y="658" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">01  multi-target-pIC50-predictor</text>
-  <text x="666" y="684" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Python // drug discovery and cheminformatics</text>
+  <text x="666" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">01  multi-target-pIC50-predictor</text>
+  <text x="666" y="740" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // drug discovery and cheminformatics</text>
 
-  <text x="666" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">02  codex</text>
-  <text x="784" y="716" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">fork</text>
-  <text x="666" y="742" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Rust // lightweight terminal coding agent</text>
+  <text x="666" y="772" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">02  codex</text>
+  <text x="742" y="772" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">fork</text>
+  <text x="666" y="796" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Rust // lightweight terminal coding agent</text>
 
-  <text x="944" y="658" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">03  jaxa-earth-vrchat-terrain</text>
-  <text x="944" y="684" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Python // JAXA data to VRChat terrain</text>
+  <text x="944" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">03  jaxa-earth-vrchat-terrain</text>
+  <text x="944" y="740" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // JAXA data to VRChat terrain</text>
 
-  <text x="944" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">04  hypura</text>
-  <text x="1037" y="716" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">fork</text>
-  <text x="944" y="742" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Rust // run oversized models on Windows</text>
+  <text x="944" y="772" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">04  hypura</text>
+  <text x="1024" y="772" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">fork</text>
+  <text x="944" y="796" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Rust // run oversized models on Windows</text>
 
-  <text x="666" y="776" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">05  Turboquant-CUDA</text>
-  <text x="666" y="802" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Rust // KV-cache TurboQuant Pareto on CUDA</text>
+  <text x="666" y="828" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">05  Turboquant-CUDA</text>
+  <text x="666" y="852" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Rust // KV-cache TurboQuant Pareto on CUDA</text>
 
-  <text x="944" y="776" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">06  multiscreen-pytorch</text>
-  <text x="944" y="802" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">Python // correctness-first multiscreen baseline</text>
+  <text x="944" y="828" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">06  multiscreen-pytorch</text>
+  <text x="944" y="852" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // correctness-first multiscreen baseline</text>
 </svg>
