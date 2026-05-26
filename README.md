@@ -36,11 +36,11 @@
 | Repo | Focus |
 | --- | --- |
 | [multi-target-pIC50-predictor](https://github.com/zapabob/multi-target-pIC50-predictor) | Multi-target pIC50 prediction, cheminformatics, and drug-discovery workflows |
-| [codex](https://github.com/zapabob/codex) | Rust-based terminal coding agent fork in the current pinned set |
 | [jaxa-earth-vrchat-terrain](https://github.com/zapabob/jaxa-earth-vrchat-terrain) | JAXA earth observation data transformed into VRChat terrain pipelines |
 | [hypura](https://github.com/zapabob/hypura) | Rust fork focused on running oversized models on Windows hardware |
 | [Turboquant-CUDA](https://github.com/zapabob/Turboquant-CUDA) | CUDA and Rust measurements for KV-cache TurboQuant Pareto experiments |
-| [multiscreen-pytorch](https://github.com/zapabob/multiscreen-pytorch) | Correctness-first multiscreen PyTorch baseline and VRAM reduction research |
+| [elastic-looped-transformer](https://github.com/zapabob/elastic-looped-transformer) | Elastic Looped Transformer experiments with self-distillation and GRPO |
+| [hermes-agent](https://github.com/zapabob/hermes-agent) | Forked Python agent project in the current pinned set |
 
 ## Connect To The Grid
 
@@ -52,7 +52,8 @@
 
 ## Telemetry Notes
 
-- Dashboard snapshot date: `2026-04-17` Asia/Tokyo
+- Dashboard snapshot date: `2026-05-26` Asia/Tokyo
+- Public profile counts and repository telemetry were refreshed from GitHub REST API and the public profile page
 - Language mix uses owned public non-fork repositories
 - Star ranking is shown separately from pinned repositories
 - Pinned repositories follow the live GitHub pinned order
