@@ -1,6 +1,6 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
-  <title id="heroTitle">zapabob live cyberpunk profile hero</title>
-  <desc id="heroDesc">GitHub profile hero refreshed on 2026-05-26 JST with current public profile stats, pinned research tracks, and AI, bioinformatics, Unity, VRChat, CUDA, and agent systems themes.</desc>
+  <title id="heroTitle">zapabob AI engineering portfolio hero</title>
+  <desc id="heroDesc">Cyberpunk AI engineering portfolio banner refreshed on 2026-05-26 JST with proof points for drug-discovery models, CUDA LLM systems measurement, agent tooling, and VR/Unity research pipelines.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050816"/>
@@ -56,39 +56,39 @@
   <path d="M94 94H1186" stroke="url(#lineCyan)" stroke-width="3" filter="url(#glowCyan)"/>
   <path d="M94 346H1186" stroke="url(#linePink)" stroke-width="3" filter="url(#glowPink)"/>
 
-  <text x="126" y="126" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="3">GITHUB PROFILE // PUBLIC SNAPSHOT // 2026-05-26 JST</text>
-  <text x="126" y="184" fill="#F6FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">zapabob // Ryo Minegishi</text>
-  <text x="126" y="220" fill="#AFC2DF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">AI systems, pIC50 prediction, bioinformatics, Unity and VRChat world pipelines,</text>
-  <text x="126" y="250" fill="#AFC2DF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">CUDA experiments, autonomous agents, and research-driven development tools.</text>
+  <text x="126" y="126" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="3">AI ENGINEERING PORTFOLIO // PUBLIC SNAPSHOT // 2026-05-26 JST</text>
+  <text x="126" y="184" fill="#F6FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="42" font-weight="700">zapabob // Ryo Minegishi</text>
+  <text x="126" y="220" fill="#AFC2DF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">Building drug-discovery models, agent systems, CUDA measurement experiments,</text>
+  <text x="126" y="250" fill="#AFC2DF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="19">and VR/Unity research tools with reproducible public repositories.</text>
 
-  <rect x="126" y="286" width="118" height="34" rx="17" fill="url(#chipCyan)" stroke="#27E1FF"/>
-  <rect x="256" y="286" width="116" height="34" rx="17" fill="#171126" stroke="#FF4FD8"/>
-  <rect x="384" y="286" width="118" height="34" rx="17" fill="#10172D" stroke="#00FFA3"/>
-  <rect x="514" y="286" width="104" height="34" rx="17" fill="#14142B" stroke="#8B5CFF"/>
-  <rect x="630" y="286" width="112" height="34" rx="17" fill="#0E263E" stroke="#27E1FF"/>
-  <rect x="754" y="286" width="104" height="34" rx="17" fill="#15122A" stroke="#FFD166"/>
+  <rect x="126" y="286" width="150" height="34" rx="17" fill="url(#chipCyan)" stroke="#27E1FF"/>
+  <rect x="288" y="286" width="124" height="34" rx="17" fill="#171126" stroke="#FF4FD8"/>
+  <rect x="424" y="286" width="100" height="34" rx="17" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="536" y="286" width="114" height="34" rx="17" fill="#14142B" stroke="#8B5CFF"/>
+  <rect x="662" y="286" width="132" height="34" rx="17" fill="#0E263E" stroke="#27E1FF"/>
+  <rect x="806" y="286" width="108" height="34" rx="17" fill="#15122A" stroke="#FFD166"/>
 
-  <text x="147" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">pIC50 AI</text>
-  <text x="278" y="308" fill="#FFE0FA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">BIOINFO</text>
-  <text x="404" y="308" fill="#CBFFE7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">VRCHAT</text>
-  <text x="538" y="308" fill="#E7DCFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">CUDA</text>
-  <text x="652" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">AGENTS</text>
-  <text x="780" y="308" fill="#FFE7A8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">ELT R&amp;D</text>
+  <text x="147" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">pIC50 MODELS</text>
+  <text x="310" y="308" fill="#FFE0FA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">LLM SYSTEMS</text>
+  <text x="449" y="308" fill="#CBFFE7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">CUDA</text>
+  <text x="558" y="308" fill="#E7DCFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">AGENTS</text>
+  <text x="684" y="308" fill="#D9FFFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">VR / UNITY</text>
+  <text x="828" y="308" fill="#FFE7A8" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="14">PyTorch</text>
 
-  <rect x="878" y="118" width="266" height="48" rx="14" fill="#0F132A" stroke="#27E1FF"/>
-  <rect x="878" y="178" width="266" height="48" rx="14" fill="#130F23" stroke="#FF4FD8"/>
-  <rect x="878" y="238" width="266" height="48" rx="14" fill="#10172D" stroke="#00FFA3"/>
-  <rect x="878" y="298" width="266" height="48" rx="14" fill="#12172D" stroke="#8B5CFF"/>
+  <rect x="912" y="118" width="232" height="48" rx="14" fill="#0F132A" stroke="#27E1FF"/>
+  <rect x="912" y="178" width="232" height="48" rx="14" fill="#130F23" stroke="#FF4FD8"/>
+  <rect x="912" y="238" width="232" height="48" rx="14" fill="#10172D" stroke="#00FFA3"/>
+  <rect x="912" y="298" width="232" height="48" rx="14" fill="#12172D" stroke="#8B5CFF"/>
 
-  <text x="900" y="138" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">LOCATION</text>
-  <text x="900" y="158" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">Nagano // Japan</text>
+  <text x="934" y="138" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">PROOF SURFACE</text>
+  <text x="934" y="158" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">166 public repos</text>
 
-  <text x="900" y="198" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">AFFILIATION</text>
-  <text x="900" y="218" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17" font-weight="700">Open University of Japan</text>
+  <text x="934" y="198" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">OWNED NON-FORK</text>
+  <text x="934" y="218" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">68 repositories</text>
 
-  <text x="900" y="258" fill="#8DFFD4" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">NETWORK</text>
-  <text x="900" y="278" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17" font-weight="700">229 followers // 421 following</text>
+  <text x="934" y="258" fill="#8DFFD4" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">NETWORK</text>
+  <text x="934" y="278" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">231 followers</text>
 
-  <text x="900" y="318" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">REPOSITORY SURFACE</text>
-  <text x="900" y="338" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="17" font-weight="700">166 public // 68 owned non-fork</text>
+  <text x="934" y="318" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12" letter-spacing="1.6">BASE</text>
+  <text x="934" y="338" fill="#F7FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">Nagano // Japan</text>
 </svg>

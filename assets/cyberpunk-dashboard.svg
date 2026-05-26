@@ -1,6 +1,6 @@
 <svg width="1280" height="920" viewBox="0 0 1280 920" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dashTitle dashDesc">
-  <title id="dashTitle">zapabob cyberpunk profile dashboard</title>
-  <desc id="dashDesc">Cyberpunk dashboard refreshed on 2026-05-26 JST showing current public GitHub profile counts, owned non-fork language mix, star-ranked repositories, and pinned repositories for zapabob.</desc>
+  <title id="dashTitle">zapabob AI engineering portfolio dashboard</title>
+  <desc id="dashDesc">Cyberpunk AI engineering portfolio dashboard refreshed on 2026-05-26 JST showing selected AI engineering results, proof repositories, language mix, and public GitHub profile counts for zapabob.</desc>
   <defs>
     <linearGradient id="dashBg" x1="0" y1="0" x2="1280" y2="920" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050816"/>
@@ -31,42 +31,42 @@
   <rect width="1280" height="920" fill="url(#dashGrid)" opacity="0.27"/>
   <path d="M0 852C198 790 315 884 526 818C748 748 910 858 1280 766" stroke="#27E1FF" stroke-opacity="0.18" stroke-width="2"/>
 
-  <text x="72" y="70" fill="#97FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" letter-spacing="3">GITHUB PROFILE // PUBLIC SNAPSHOT // 2026-05-26 JST</text>
-  <text x="72" y="110" fill="#F4FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="38" font-weight="700">zapabob profile telemetry</text>
+  <text x="72" y="70" fill="#97FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18" letter-spacing="3">AI ENGINEERING PORTFOLIO // PUBLIC SNAPSHOT // 2026-05-26 JST</text>
+  <text x="72" y="110" fill="#F4FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="38" font-weight="700">proof-of-work dashboard</text>
 
   <rect x="56" y="138" width="350" height="220" rx="24" fill="#0D1228" stroke="#244166" stroke-width="2"/>
-  <text x="84" y="178" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">SIGNAL SUMMARY</text>
+  <text x="84" y="178" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">PUBLIC ENGINEERING SURFACE</text>
   <text x="84" y="222" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="54" font-weight="700">68</text>
   <text x="84" y="252" fill="#A8B6D9" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="21">owned public non-fork repos</text>
   <text x="84" y="284" fill="#FF95EF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">166 public repos including forks</text>
-  <text x="84" y="320" fill="#A8B6D9" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">followers 229 // following 421</text>
+  <text x="84" y="320" fill="#A8B6D9" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">followers 231 // following 421</text>
 
   <rect x="430" y="138" width="794" height="220" rx="24" fill="#0E1128" stroke="#244166" stroke-width="2"/>
-  <text x="458" y="178" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">CALL TO ACTION MATRIX</text>
+  <text x="458" y="178" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">SELECTED AI ENGINEERING RESULTS</text>
 
   <rect x="458" y="196" width="350" height="64" rx="18" fill="#0C1930" stroke="#27E1FF"/>
   <rect x="836" y="196" width="350" height="64" rx="18" fill="#171126" stroke="#FF4FD8"/>
   <rect x="458" y="276" width="350" height="64" rx="18" fill="#10172D" stroke="#00FFA3"/>
   <rect x="836" y="276" width="350" height="64" rx="18" fill="#13142C" stroke="#8B5CFF"/>
 
-  <text x="482" y="219" fill="#9AFDFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">SPONSOR</text>
-  <text x="482" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">GitHub Sponsors</text>
-  <text x="482" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">support ongoing builds and experiments</text>
+  <text x="482" y="219" fill="#9AFDFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">DRUG DISCOVERY ML</text>
+  <text x="482" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">multi-target pIC50</text>
+  <text x="482" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">Transformer regression, RDKit descriptors, Optuna</text>
 
-  <text x="860" y="219" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">REPOSITORIES</text>
-  <text x="860" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">166 Public Projects</text>
-  <text x="860" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">research, forks, tools, and experiments</text>
+  <text x="860" y="219" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">LLM SYSTEMS</text>
+  <text x="860" y="241" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">CUDA KV-cache study</text>
+  <text x="860" y="255" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">Qwen3.5-9B TurboQuant Pareto measurements</text>
 
-  <text x="482" y="299" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">ISSUES</text>
-  <text x="482" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Issue Reports Welcome</text>
-  <text x="482" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">feedback, bug reports, and edge cases</text>
+  <text x="482" y="299" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">MODEL RESEARCH</text>
+  <text x="482" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">Elastic Looped Transformer</text>
+  <text x="482" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">PyTorch causal-LM, self-distillation, GRPO</text>
 
-  <text x="860" y="299" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">PULL REQUESTS</text>
-  <text x="860" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">PRs Welcome</text>
-  <text x="860" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">patches, fixes, and quality improvements</text>
+  <text x="860" y="299" fill="#D5C1FF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13" letter-spacing="1.4">SPATIAL AI TOOLING</text>
+  <text x="860" y="321" fill="#F8FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="22" font-weight="700">JAXA to VRChat pipeline</text>
+  <text x="860" y="335" fill="#AAC3DA" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="12">Earth-observation terrain for Blender, Unity, VRChat</text>
 
   <rect x="56" y="384" width="558" height="478" rx="24" fill="#0C1125" stroke="#244166" stroke-width="2"/>
-  <text x="84" y="426" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">LANGUAGE USAGE // OWNED PUBLIC NON-FORK</text>
+  <text x="84" y="426" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">LANGUAGE MIX // OWNED PUBLIC NON-FORK</text>
 
   <text x="84" y="474" fill="#DFFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">Python</text>
   <rect x="194" y="456" width="340" height="24" rx="12" fill="#122036"/>
@@ -105,36 +105,25 @@
 
   <text x="84" y="778" fill="#FFAFEF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="16">basis: 68 owned public repositories, excluding forks, grouped by primaryLanguage</text>
 
-  <rect x="638" y="384" width="586" height="224" rx="24" fill="#0C1125" stroke="#244166" stroke-width="2"/>
-  <text x="666" y="426" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">STAR RANKING // OWNED PUBLIC NON-FORK</text>
-  <text x="666" y="470" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">01  Turboquant-CUDA</text>
-  <text x="1138" y="470" text-anchor="end" fill="#8FFBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">6 stars</text>
-  <text x="666" y="504" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">02  liltoon-pcss-extension</text>
-  <text x="1138" y="504" text-anchor="end" fill="#FF9CF0" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">5 stars</text>
-  <text x="666" y="538" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">03  Python-drug-Prediction</text>
-  <text x="1138" y="538" text-anchor="end" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">2 stars</text>
-  <text x="666" y="572" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15">1-star tier: -, Bluestroke, DeepResearchmodoki, NumPy-CAD, PsychoSubstanceAnaliyzer</text>
+  <rect x="638" y="384" width="586" height="478" rx="24" fill="#0C1125" stroke="#244166" stroke-width="2"/>
+  <text x="666" y="426" fill="#FF9CED" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">EVIDENCE REPOSITORIES // AI ENGINEERING PROOF</text>
 
-  <rect x="638" y="636" width="586" height="226" rx="24" fill="#0C1125" stroke="#244166" stroke-width="2"/>
-  <text x="666" y="678" fill="#92FFD1" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">PINNED REPOSITORIES // PUBLIC PROFILE ORDER</text>
+  <text x="666" y="470" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">01  multi-target-pIC50-predictor</text>
+  <text x="666" y="494" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // multi-target pIC50, RDKit descriptors, Optuna, GUI/CLI</text>
 
-  <text x="666" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">01  multi-target-pIC50-predictor</text>
-  <text x="666" y="740" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // pIC50 prediction and cheminformatics</text>
+  <text x="666" y="536" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">02  Turboquant-CUDA</text>
+  <text x="666" y="560" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // Qwen3.5-9B KV-cache TurboQuant CUDA measurements</text>
 
-  <text x="666" y="772" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">03  hypura</text>
-  <text x="764" y="772" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">fork</text>
-  <text x="666" y="796" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Rust // oversized models on Windows hardware</text>
+  <text x="666" y="602" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">03  elastic-looped-transformer</text>
+  <text x="666" y="626" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // ELT, Intra-Loop Self-Distillation, GRPO, causal-LM</text>
 
-  <text x="944" y="716" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">02  jaxa-earth-vrchat-terrain</text>
-  <text x="944" y="740" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // JAXA data to VRChat terrain</text>
+  <text x="666" y="668" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">04  jaxa-earth-vrchat-terrain</text>
+  <text x="666" y="692" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // JAXA earth observation data to Blender, Unity, VRChat</text>
 
-  <text x="944" y="772" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">04  Turboquant-CUDA</text>
-  <text x="944" y="796" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // KV-cache TurboQuant on CUDA</text>
+  <text x="666" y="734" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">05  hermes-agent</text>
+  <text x="796" y="734" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">fork</text>
+  <text x="666" y="758" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // agent tooling and local AI assistant experimentation</text>
 
-  <text x="666" y="828" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">05  elastic-looped-transformer</text>
-  <text x="666" y="852" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // ELT, self-distillation, and GRPO</text>
-
-  <text x="944" y="828" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="18">06  hermes-agent</text>
-  <text x="1074" y="828" fill="#FFB6F6" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">fork</text>
-  <text x="944" y="852" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">Python // agent that grows with you</text>
+  <text x="666" y="800" fill="#F5FBFF" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="20">06  liltoon-pcss-extension</text>
+  <text x="666" y="824" fill="#A9B7D7" font-family="'Segoe UI', 'Noto Sans JP', sans-serif" font-size="13">C# // Unity and VRChat shader tooling extension</text>
 </svg>
