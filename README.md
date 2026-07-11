@@ -1,70 +1,120 @@
 <div align="center">
-  <img src="./assets/cyberpunk-hero.svg" alt="zapabob AI engineering portfolio banner" width="100%" />
+  <img src="./assets/hermes-portfolio-hero.svg" alt="zapabob AI Engineer and AI Architect portfolio" width="100%" />
 </div>
 
-<h1 align="center">AI Engineering Portfolio // zapabob</h1>
+<h1 align="center">zapabob — AI Engineer / AI Architect</h1>
 
 <p align="center">
-  AI engineer building drug-discovery models, agent systems, CUDA measurement experiments, and VR/Unity research tools.
+  Production-grade AI agents, secure tool execution, LLM systems, CUDA optimisation, scientific machine learning, and spatial computing.
 </p>
 
-<div align="center">
-  <a href="https://github.com/sponsors/zapabob">
-    <img src="https://img.shields.io/badge/Sponsor-Neon_My_Lab-ff4fd8?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor zapabob" />
+<p align="center">
+  <a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Azapabob">
+    <img src="https://img.shields.io/badge/Hermes_Agent-Upstream_Contributor-7C3AED?style=for-the-badge&logo=github" alt="Hermes Agent upstream contributor" />
   </a>
   <a href="https://github.com/zapabob?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-166_Public_Repos-27e1ff?style=for-the-badge&logo=github&logoColor=white" alt="Browse zapabob repositories" />
+    <img src="https://img.shields.io/badge/Portfolio-AI_Systems-0EA5E9?style=for-the-badge&logo=github" alt="AI systems portfolio" />
   </a>
-  <a href="https://github.com/issues?q=is%3Aopen+user%3Azapabob+archived%3Afalse">
-    <img src="https://img.shields.io/badge/Issues-Welcome-00ffa3?style=for-the-badge&logo=github&logoColor=black" alt="Open issues for zapabob" />
+  <a href="https://github.com/sponsors/zapabob">
+    <img src="https://img.shields.io/badge/Sponsor-Open_Source-EC4899?style=for-the-badge&logo=githubsponsors" alt="Sponsor zapabob" />
   </a>
-  <a href="https://github.com/pulls?q=is%3Aopen+user%3Azapabob+archived%3Afalse+is%3Apr">
-    <img src="https://img.shields.io/badge/PRs-Welcome-8b5cff?style=for-the-badge&logo=git&logoColor=white" alt="Open pull requests for zapabob" />
-  </a>
-</div>
+</p>
 
-## Selected AI Engineering Results
-
-| Problem | AI engineering work | Evidence | Repo |
-| --- | --- | --- | --- |
-| Drug-discovery signal modeling | Multi-target pIC50 platform for psychoactive and drug-like compounds using Transformer regression, RDKit descriptors, SMARTS scaffolds, and Optuna | DAT, 5HT2A, CB1, CB2, and opioid receptor workflows with GUI/CLI and session recovery | [multi-target-pIC50-predictor](https://github.com/zapabob/multi-target-pIC50-predictor) |
-| GPU/LLM systems measurement | KV-cache TurboQuant Pareto experiments for Qwen3.5-9B on CUDA with captured replay | Measurement-focused repository for reproducible LLM systems experiments | [Turboquant-CUDA](https://github.com/zapabob/Turboquant-CUDA) |
-| Experimental model research | Elastic Looped Transformer causal-LM port with Intra-Loop Self-Distillation and GRPO | PyTorch research implementation for advanced architecture experiments | [elastic-looped-transformer](https://github.com/zapabob/elastic-looped-transformer) |
+## 30-second overview
 
 <div align="center">
-  <img src="./assets/cyberpunk-dashboard.svg" alt="zapabob AI engineering portfolio dashboard" width="100%" />
+  <img src="./assets/hermes-contribution-map.svg" alt="Hermes Agent contribution map" width="100%" />
 </div>
 
-## Portfolio Repositories
-
-| Repo | Why it matters |
+| What I do | Evidence |
 | --- | --- |
-| [multi-target-pIC50-predictor](https://github.com/zapabob/multi-target-pIC50-predictor) | AI drug-discovery workflow: descriptors, Transformer regression, target-specific pIC50 prediction, GUI/CLI |
-| [Turboquant-CUDA](https://github.com/zapabob/Turboquant-CUDA) | CUDA and LLM systems measurements for KV-cache TurboQuant Pareto analysis |
-| [elastic-looped-transformer](https://github.com/zapabob/elastic-looped-transformer) | Experimental PyTorch model research: ELT, self-distillation, GRPO |
-| [jaxa-earth-vrchat-terrain](https://github.com/zapabob/jaxa-earth-vrchat-terrain) | Data pipeline from JAXA earth-observation inputs to Blender, Unity, and VRChat terrain |
-| [hermes-agent](https://github.com/zapabob/hermes-agent) | Agent tooling and local AI assistant experimentation |
-| [liltoon-pcss-extension](https://github.com/zapabob/liltoon-pcss-extension) | Unity/VRChat C# extension work for production-style shader tooling |
+| Architect and harden production AI-agent systems | Upstream work across Hermes Agent security, plugins, backup/restore, provider validation, gateway and runtime paths |
+| Build usable AI products | Desktop, TUI, WebUI, Electron, approval flows, model selection and cross-platform fixes |
+| Optimise LLM infrastructure | CUDA experiments, KV-cache quantisation analysis and reproducible performance measurements |
+| Apply ML to science | Multi-target pIC50 modelling with Transformers, RDKit descriptors and Optuna |
+| Deliver across platforms | Python, TypeScript, Electron, React, Rust, CUDA, C#, Unity and Windows/Linux environments |
 
-## Engineering Focus
+## Hermes Agent and Hermes WebUI contributions
 
-- AI for drug discovery: pIC50 prediction, cheminformatics, RDKit-style descriptors, receptor-target workflows
-- LLM systems: CUDA measurement, KV-cache experimentation, model-efficiency tradeoff analysis
-- Agentic software: autonomous assistant tooling, workflow automation, local-first research systems
-- Research implementation: PyTorch experiments, architecture ports, reproducible exploratory code
-- Spatial computing: Unity, Blender, VRChat, terrain pipelines, and creator tooling
+I contribute directly to the upstream Hermes Agent ecosystem, with work spanning architecture, security, reliability and user-facing AI interfaces.
 
-## Connect
+<div align="center">
+  <img src="./assets/hermes-impact-dashboard.svg" alt="Hermes engineering impact dashboard" width="100%" />
+</div>
 
-- [Browse repositories](https://github.com/zapabob?tab=repositories)
-- [Sponsor @zapabob](https://github.com/sponsors/zapabob)
-- [Report issues across active repos](https://github.com/issues?q=is%3Aopen+user%3Azapabob+archived%3Afalse)
-- [Review or send pull requests](https://github.com/pulls?q=is%3Aopen+user%3Azapabob+archived%3Afalse+is%3Apr)
-- [Follow on X](https://x.com/zapabob_ouj)
+### Representative contribution areas
 
-## Snapshot Notes
+| Area | Engineering contribution |
+| --- | --- |
+| Security | Archive expansion limits, SSRF protections, credential-path filtering, provider URL validation, plugin authorisation hardening |
+| Desktop / WebUI | Electron stability, approval flows, model picker behaviour, session correctness, tooltip and interaction fixes |
+| Agent runtime | Safer tool handling, malformed tool-call preservation, state hydration hardening and provider error handling |
+| Backup / restore | Safe archive import, symlink validation, wrapper-prefix collision prevention and restore target constraints |
+| Cross-platform | Windows temporary-file handling, POSIX path normalisation, standard-pipe handling and local-provider compatibility |
+| Gateway / integrations | Telegram entity parsing, media cache cleanup, proxy handling and session persistence |
+| Quality | Focused regression tests, type checks, platform-specific verification and issue-linked fixes |
 
-- Profile snapshot date: `2026-05-26` Asia/Tokyo
-- Public profile counts and repository telemetry were refreshed from GitHub REST API and the public profile page
-- Current public surface: `166` public repositories, `68` owned public non-fork repositories, `231` followers
-- Current public pinned order: `multi-target-pIC50-predictor`, `jaxa-earth-vrchat-terrain`, `hypura`, `Turboquant-CUDA`, `elastic-looped-transformer`, `hermes-agent`
+### Selected upstream pull requests
+
+- [`fix(security): bound resource use and verify Tirith provenance`](https://github.com/NousResearch/hermes-agent/pull/61881)
+- [`fix(security): bind tool override gates to owner tokens`](https://github.com/NousResearch/hermes-agent/pull/56443)
+- [`fix(web): re-check Firecrawl final URLs for SSRF`](https://github.com/NousResearch/hermes-agent/pull/35840)
+- [`fix(file): block credential paths from search results`](https://github.com/NousResearch/hermes-agent/pull/35841)
+- [`fix(profiles): preserve safe symlinks on archive import`](https://github.com/NousResearch/hermes-agent/pull/62194)
+- [`fix(backup): reject mixed archive wrapper prefixes`](https://github.com/NousResearch/hermes-agent/pull/62087)
+- [`fix(file-sync): make sync-back portable on Windows`](https://github.com/NousResearch/hermes-agent/pull/62066)
+- [`fix(desktop): guard broken standard pipes`](https://github.com/NousResearch/hermes-agent/pull/61894)
+- [`fix(desktop): extend approval response timeout`](https://github.com/NousResearch/hermes-agent/pull/55506)
+- [`fix(desktop): avoid probing custom providers on model picker open`](https://github.com/NousResearch/hermes-agent/pull/49713)
+
+## Architecture profile
+
+<div align="center">
+  <img src="./assets/architecture-stack.svg" alt="AI architecture technology stack" width="100%" />
+</div>
+
+### Core strengths
+
+- Agent runtime architecture
+- Secure tool execution and plugin systems
+- Desktop AI and WebUI engineering
+- Model-provider abstraction
+- Cross-platform systems design
+- CUDA and LLM performance analysis
+- Scientific machine learning
+- Unity and spatial-computing tooling
+
+## Selected projects
+
+| Project | Focus | Why it matters |
+| --- | --- | --- |
+| [hermes-agent](https://github.com/zapabob/hermes-agent) | Agent runtime, plugins, tools, desktop and local AI workflows | Production-oriented AI-agent engineering and upstream contribution work |
+| [Turboquant-CUDA](https://github.com/zapabob/Turboquant-CUDA) | KV-cache quantisation and CUDA measurement | Reproducible LLM systems analysis and model-efficiency experimentation |
+| [multi-target-pIC50-predictor](https://github.com/zapabob/multi-target-pIC50-predictor) | Transformer-based drug-discovery modelling | Scientific ML with molecular descriptors, receptor targets and Optuna |
+| [elastic-looped-transformer](https://github.com/zapabob/elastic-looped-transformer) | Experimental Transformer research | Architecture implementation, self-distillation and GRPO experimentation |
+| [jaxa-earth-vrchat-terrain](https://github.com/zapabob/jaxa-earth-vrchat-terrain) | Earth-observation to VR pipeline | Data engineering across JAXA inputs, Blender, Unity and VRChat |
+| [liltoon-pcss-extension](https://github.com/zapabob/liltoon-pcss-extension) | Unity shader tooling | Production-minded C# and Unity extension development |
+
+## Engineering stack
+
+```text
+AI / ML        Python · PyTorch · Transformers · RDKit · Optuna
+Agent systems  Hermes Agent · Tool execution · Plugins · MCP · Local-first AI
+Frontend       TypeScript · React · Electron · WebUI · TUI
+Systems        Rust · CUDA · Docker · Windows · Linux
+Spatial        C# · Unity · Blender · VRChat
+```
+
+## What I bring to a team
+
+- I can move between architecture, implementation, testing and production debugging.
+- I treat agent security, tool boundaries and state handling as first-class design concerns.
+- I can work across model-layer, runtime-layer, UI-layer and platform-layer problems.
+- I document engineering decisions and add regression coverage rather than shipping one-off patches.
+- I am comfortable contributing inside large upstream codebases as well as building original research software.
+
+## Contact
+
+- GitHub: [@zapabob](https://github.com/zapabob)
+- X: [@zapabob_ouj](https://x.com/zapabob_ouj)
+- Sponsorship: [GitHub Sponsors](https://github.com/sponsors/zapabob)
