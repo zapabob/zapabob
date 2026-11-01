@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="570" viewBox="0 0 1280 570" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution records and review outcomes</title>
+  <desc id="desc">Separate status dashboard for Hermes Agent pull requests and Strata fork and upstream records as of 2026-11-01.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#07111f"/><stop offset="1" stop-color="#17101e"/></linearGradient>
+    <linearGradient id="rule" x1="48" y1="0" x2="1232" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#27d9f2"/><stop offset=".52" stop-color="#50e0ac"/><stop offset="1" stop-color="#e879d5"/></linearGradient>
+  </defs>
+  <rect width="1280" height="570" rx="22" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1224" height="514" rx="18" fill="#091421" stroke="#273950" stroke-width="2"/>
+  <path d="M48 48H1232" stroke="url(#rule)" stroke-width="3"/>
+  <text x="58" y="91" fill="#92ecf2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">EVIDENCE DASHBOARD / SNAPSHOT 2026-11-01 JST</text>
+  <text x="58" y="131" fill="#f2f6fa" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Separate the work, the credit, and the review result</text>
+  <text x="58" y="159" fill="#9aadc0" font-family="Segoe UI,Arial,sans-serif" font-size="15">Counts come from public repository commit history and author-filtered pull-request records.</text>
+
+  <text x="58" y="207" fill="#a7edf1" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">HERMES AGENT · 164 AUTHORED PRs</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="58" y="224" width="100" height="80" rx="10" fill="#123225" stroke="#50e0ac"/><text x="78" y="266" fill="#f5fbff" font-size="33" font-weight="700">1</text><text x="78" y="288" fill="#b9e9d6" font-size="13">MERGED</text>
+    <rect x="172" y="224" width="100" height="80" rx="10" fill="#102b37" stroke="#27d9f2"/><text x="192" y="266" fill="#f5fbff" font-size="33" font-weight="700">5</text><text x="192" y="288" fill="#b4e5eb" font-size="13">OPEN</text>
+    <rect x="286" y="224" width="190" height="80" rx="10" fill="#2a1c2d" stroke="#e879d5"/><text x="306" y="266" fill="#f5fbff" font-size="33" font-weight="700">158</text><text x="382" y="266" fill="#f2d3ec" font-size="13">CLOSED</text><text x="306" y="288" fill="#c2a9bf" font-size="13">WITHOUT MERGE</text>
+    <rect x="498" y="224" width="238" height="80" rx="10" fill="#1c2031" stroke="#a892df"/><text x="518" y="266" fill="#f5fbff" font-size="33" font-weight="700">18</text><text x="570" y="258" fill="#d3caef" font-size="13">AUTHOR COMMITS</text><text x="570" y="281" fill="#a8a9bb" font-size="13">in upstream main</text>
+    <rect x="758" y="224" width="208" height="80" rx="10" fill="#19272a" stroke="#70cbb4"/><text x="778" y="266" fill="#f5fbff" font-size="33" font-weight="700">14</text><text x="830" y="258" fill="#c6eadc" font-size="13">MAINTAINER</text><text x="830" y="281" fill="#a7bbb8" font-size="13">committers</text>
+    <rect x="988" y="224" width="234" height="80" rx="10" fill="#281d2c" stroke="#c17ab3"/><text x="1008" y="266" fill="#f5fbff" font-size="33" font-weight="700">22</text><text x="1060" y="258" fill="#efcce8" font-size="13">SALVAGE IN TEXT</text><text x="1060" y="281" fill="#bca8bc" font-size="13">PR descriptions</text>
+  </g>
+
+  <path d="M58 330H1222" stroke="#26384c"/>
+  <text x="58" y="366" fill="#ecc8e5" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">STRATA · FORK EVIDENCE AND UPSTREAM RECORDS</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="58" y="384" width="220" height="82" rx="10" fill="#221b2a" stroke="#e879d5"/><text x="78" y="427" fill="#f5fbff" font-size="34" font-weight="700">208</text><text x="150" y="417" fill="#f0cae8" font-size="13">FORK-ONLY</text><text x="150" y="439" fill="#b7a8b8" font-size="13">authored commits</text>
+    <rect x="294" y="384" width="220" height="82" rx="10" fill="#221b2a" stroke="#a892df"/><text x="314" y="427" fill="#f5fbff" font-size="34" font-weight="700">33</text><text x="386" y="417" fill="#d7cbf3" font-size="13">CO-AUTHOR</text><text x="386" y="439" fill="#b7a8b8" font-size="13">trailers</text>
+    <rect x="530" y="384" width="310" height="82" rx="10" fill="#182729" stroke="#69cbb3"/><text x="550" y="417" fill="#c6eadc" font-size="13" font-weight="700">UPSTREAM MAINTAINER COMMIT</text><text x="550" y="442" fill="#e9f2ee" font-size="15">#3954 change · author preserved</text>
+    <rect x="856" y="384" width="366" height="82" rx="10" fill="#171a27" stroke="#566078"/><text x="876" y="417" fill="#e3e7ef" font-size="13" font-weight="700">4 AUTHOR PRs · 3 OPEN · 1 CLOSED</text><text x="876" y="442" fill="#b3bac8" font-size="14">Closed proposal has an upstream commit record.</text>
+  </g>
+  <rect x="58" y="488" width="1164" height="34" rx="7" fill="#101c29"/>
+  <text x="74" y="510" fill="#91a4b7" font-family="Segoe UI,Arial,sans-serif" font-size="12">Overlap note: author commits, maintainer committers, co-author trailers, and salvage references describe credit or lineage; they are not independent totals.</text>
+</svg>

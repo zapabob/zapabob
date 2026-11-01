@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">zapabob AI systems engineering portfolio</title>
+  <desc id="desc">Portfolio for secure agent systems, local inference, cross-platform engineering, CUDA research, and scientific machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111f"/><stop offset=".58" stop-color="#0b1726"/><stop offset="1" stop-color="#211024"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="90" y1="0" x2="1190" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#27d9f2"/><stop offset=".56" stop-color="#50e0ac"/><stop offset="1" stop-color="#e879d5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#213149" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#grid)" opacity=".34"/>
+  <rect x="36" y="34" width="1208" height="292" rx="18" fill="#081321" fill-opacity=".82" stroke="#2b405b" stroke-width="2"/>
+  <path d="M56 58H1224" stroke="url(#edge)" stroke-width="3"/>
+  <text x="82" y="105" fill="#86edf4" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">AI SYSTEMS ENGINEERING / OPEN-SOURCE WORK</text>
+  <text x="82" y="171" fill="#f3f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">zapabob</text>
+  <text x="82" y="207" fill="#bdcad8" font-family="Segoe UI,Arial,sans-serif" font-size="21">Secure agent runtimes · local inference · cross-platform systems</text>
+  <text x="82" y="239" fill="#bdcad8" font-family="Segoe UI,Arial,sans-serif" font-size="21">CUDA research · scientific machine learning · spatial tools</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">
+    <rect x="82" y="267" width="152" height="34" rx="8" fill="#102534" stroke="#27d9f2"/><text x="103" y="289" fill="#a2f4f6">HERMES AGENT</text>
+    <rect x="248" y="267" width="102" height="34" rx="8" fill="#102a25" stroke="#50e0ac"/><text x="273" y="289" fill="#b5f3d9">STRATA</text>
+    <rect x="364" y="267" width="102" height="34" rx="8" fill="#241526" stroke="#e879d5"/><text x="390" y="289" fill="#f2c5e9">CUDA</text>
+    <rect x="480" y="267" width="156" height="34" rx="8" fill="#1c2030" stroke="#e5bb72"/><text x="501" y="289" fill="#f2dfb6">SCIENTIFIC ML</text>
+  </g>
+  <text x="902" y="117" fill="#90a6ba" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">PROVENANCE SNAPSHOT</text>
+  <text x="902" y="157" fill="#f3f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">Authorship stays visible</text>
+  <text x="902" y="190" fill="#aebdcd" font-family="Segoe UI,Arial,sans-serif" font-size="16">Co-authors, maintainers, salvage</text>
+  <text x="902" y="215" fill="#aebdcd" font-family="Segoe UI,Arial,sans-serif" font-size="16">and PR outcomes are credited separately.</text>
+  <text x="902" y="280" fill="#71869c" font-family="Segoe UI,Arial,sans-serif" font-size="13">PUBLIC GITHUB EVIDENCE · 2026-11-01 JST</text>
+</svg>
